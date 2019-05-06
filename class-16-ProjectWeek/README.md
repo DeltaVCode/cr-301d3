@@ -1,4 +1,4 @@
-# Class 21 - Project Week: Milestone 1
+# Class 16 - Project Week: Milestone 1
 
 ## Planning phase
 Welcome to project week! This first day is all about scoping your project and getting it planned out. You have a lot to do today...let's get started.
